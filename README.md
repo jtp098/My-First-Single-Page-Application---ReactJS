@@ -25,7 +25,7 @@ Summary:
     "react-scripts": "2.1.8"
   },
 
-## Step 3: API KEY is included as a comment in the video!
+## Step 3: API KEY is included as a comment on side of the video!
 
 Open the Ajax.js file and add the news api key submitted separately. 
 
