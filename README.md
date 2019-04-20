@@ -5,7 +5,7 @@ Hi there and welcome to my first ReactJS project. Please take note that I have u
 - Axios for my ajax calls 
 - Material CSS for my styling
 
-##API KEY is included as a comment in the video!
+
 ## Step 1:  npm init
 
 Open CMD, cd to the location you unzipped the project to and run npm init. Just hit enter for all the questions, until it is done. No need to answer the questions
@@ -25,7 +25,7 @@ Summary:
     "react-scripts": "2.1.8"
   },
 
-## Step 3: 
+## Step 3: API KEY is included as a comment in the video!
 
 Open the Ajax.js file and add the news api key submitted separately. 
 
